@@ -1,2 +1,0 @@
-# paginagame
-mi primera pagina
